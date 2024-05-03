@@ -42,4 +42,15 @@
   - total - total score (target variable)
 
 
+# Machine Learning Algorithms
+
+  - Linear Regression
+  - K-Nearest Neighbor Regressor
+  - XGBoost Regressor
+  - RandomForest Regressor
+  - SVR
+  - Decision Tree Regressor
+    
+
+
 
